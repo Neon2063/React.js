@@ -3,6 +3,7 @@ import user from '../assets/profile_img.png';
 import search from '../assets/search_icon.svg';
 import bell from '../assets/bell_icon.svg';
 
+// {top eta xha hai}
 const Nav = () => {
   return (
     <header className="flex w-full items-center justify-between px-6 py-3 bg-black fixed z-10">

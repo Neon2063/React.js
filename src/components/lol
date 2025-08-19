@@ -1,1 +1,7 @@
-royfwhlk.ughlbka.kghbakghblklgkhbkjsm,
+// This is a test comment for GitHub activity
+// Another comment to make the file non-empty
+// Committing this file will show activity on your GitHub profile
+echo "// test commit to link with GitHub profile" >> test.js
+git add test.js
+git commit -m "chore: correct git identity"
+git push

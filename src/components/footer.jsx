@@ -41,3 +41,5 @@ const Footer = () => {
 };
 
 export default Footer;
+
+// This is a test comment for GitHub activity

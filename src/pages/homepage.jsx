@@ -1,4 +1,7 @@
 import Nav from '../../src/components/nav';
+import Cards from '../../src/components/cards';
+import React from 'react';
+
 import hero from '../assets/hero_banner.jpg';
 import name from '../assets/hero_title.png';
 
@@ -6,7 +9,7 @@ const Homepage = () => {
   return (
     <>
       <Nav />
-      <div className="relative w-full">
+      {<div className="relative w-full">
         
         <img className="w-full h-screen object-cover" src={hero} alt="Front Page" />
 
@@ -30,7 +33,8 @@ const Homepage = () => {
             </button>
           </div>
         </div>
-      </div>
+       </div> }
+      <Cards />
     </>
   );
 };

@@ -1,1 +1,2 @@
-hello i am just trying to type for daily checkin in github account 
+hello i am just trying to type for daily checkin in github account  not all thibgs
+another day of being active in github and making my profile good and green also making sure that i commit code and also make is push 
